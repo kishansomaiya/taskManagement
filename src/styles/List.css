@@ -1,0 +1,16 @@
+.List {
+	background-color: #2ecc71;
+	min-height: 200px;
+}
+
+.List-header {
+	font-weight: bold;
+	font-size: 16px;
+	color: white;
+	padding: 10px;
+}
+
+.List-content {
+	font-size: 12px;
+    padding: 5px 0;
+}
